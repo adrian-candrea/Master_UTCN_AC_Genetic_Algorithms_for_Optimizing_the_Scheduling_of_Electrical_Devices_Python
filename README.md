@@ -12,3 +12,4 @@ fitness, aplicarea mecanismelor de elitism și selecție, aplicarea operatorilor
 genetici de încrucișare și mutație și implementarea constrângerilor specifice 
 fiecărui tip de dispozitiv. Procesul evolutiv se repetă până la atingerea 
 numărului maxim de generații stabilit.
+<img width="1362" height="532" alt="copie schema" src="https://github.com/user-attachments/assets/a2cba2ff-824f-4210-98ab-9c19cbd60507" />
